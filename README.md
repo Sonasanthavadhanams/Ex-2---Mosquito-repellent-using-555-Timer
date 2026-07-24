@@ -5,7 +5,9 @@
 To design, simulate, and analyze an electronic mosquito repellent circuit using the IC 555 Timer in astable mode with Proteus software, and to generate ultrasonic frequency signals capable of driving a piezo buzzer.
 
 **Apparatus Required**
+
 S.No	Components/Software	Specification
+
 1	Proteus Design Suite	Version 8.0 or above
 2	IC 555 Timer	NE555
 3	Resistors	1 kΩ, 10 kΩ, 100 kΩ (or as required)
